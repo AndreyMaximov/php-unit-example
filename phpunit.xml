@@ -1,0 +1,21 @@
+<phpunit>
+    <testsuites>
+        <testsuite name="GxpResolver">
+            <directory>tests</directory>
+<!--            <file>tests/GxpResolverTest0.php</file>-->
+<!--            <file>tests/GxpResolverTest1.php</file>-->
+<!--            <file>tests/GxpResolverTest.php</file>-->
+<!--            <file>tests/GxpResolverApiTest.php</file>-->
+        </testsuite>
+    </testsuites>
+    <filter>
+        <whitelist processUncoveredFilesFromWhitelist="true">
+            <file>app/GxpResolver.php</file>
+            <file>app/GxpResolverApi.php</file>
+        </whitelist>
+    </filter>
+    <logging>
+        <log type="coverage-html" target="build/coverage-report" lowUpperBound="35" highLowerBound="70"/>
+        <log type="junit" target="build/test-results.xml"/>
+    </logging>
+</phpunit>

@@ -1,0 +1,118 @@
+{
+    "GLOBAL": {
+        "_default": {
+            "timestamp": 1583794257.317479,
+            "value": "global default"
+        },
+        "_category": {
+            "zumba": {
+                "timestamp": 1583794257.319709,
+                "value": "global category zumba"
+            },
+            "boxing": {
+                "timestamp": 1583794257.3211,
+                "value": "global category boxing"
+            },
+            "soccer": {
+                "timestamp": 1583794257.322451,
+                "value": "global category soccer"
+            },
+            "barre": {
+                "timestamp": 1583794257.323801,
+                "value": "global category barre"
+            }
+        },
+        "_class": {
+            "zumba": {
+                "timestamp": 1583794257.325195,
+                "value": "global class zumba"
+            },
+            "boxing": {
+                "timestamp": 1583794257.326544,
+                "value": "global class boxing"
+            },
+            "soccer": {
+                "timestamp": 1583794257.327871,
+                "value": "global class soccer"
+            },
+            "barre": {
+                "timestamp": 1583794257.329298,
+                "value": "global class barre"
+            }
+        }
+    },
+    "wichita": {
+        "_default": {
+            "timestamp": 1583794257.330605,
+            "value": "wichita default"
+        },
+        "_category": {
+            "zumba": {
+                "timestamp": 1583794257.331865,
+                "value": "wichita category zumba"
+            },
+            "boxing": {
+                "timestamp": 1583794257.333178,
+                "value": "wichita category boxing"
+            },
+            "soccer": {
+                "timestamp": 1583794257.334461,
+                "value": "wichita category soccer"
+            },
+            "barre": {
+                "timestamp": 1583794257.335723,
+                "value": "wichita category barre"
+            }
+        },
+        "_class": {
+            "zumba": {
+                "timestamp": 1583794257.337024,
+                "value": "wichita class zumba"
+            },
+            "boxing": {
+                "timestamp": 1583794257.338279,
+                "value": "wichita class boxing"
+            },
+            "soccer": {
+                "timestamp": 1583794257.339539,
+                "value": "wichita class soccer"
+            },
+            "barre": {
+                "timestamp": 1583794257.340885,
+                "value": "wichita class barre"
+            },
+            "zumba1": {
+                "timestamp": 1583794257.342253,
+                "value": "wichita class zumba1"
+            },
+            "boxing1": {
+                "timestamp": 1583794257.343587,
+                "value": "wichita class boxing1"
+            },
+            "soccer1": {
+                "timestamp": 1583794257.344911,
+                "value": "wichita class soccer1"
+            },
+            "barre1": {
+                "timestamp": 1583794257.346258,
+                "value": "wichita class barre1"
+            },
+            "zumba2": {
+                "timestamp": 1583794257.347601,
+                "value": "wichita class zumba2"
+            },
+            "boxing2": {
+                "timestamp": 1583794257.349202,
+                "value": "wichita class boxing2"
+            },
+            "soccer2": {
+                "timestamp": 1583794257.350769,
+                "value": "wichita class soccer2"
+            },
+            "barre2": {
+                "timestamp": 1583794257.352199,
+                "value": "wichita class barre2"
+            }
+        }
+    }
+}

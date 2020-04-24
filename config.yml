@@ -1,0 +1,6 @@
+api:
+  log_delay: 60
+  port: 8080
+  stats_interval: 60
+resolver:
+  perm_storage: storage.json
